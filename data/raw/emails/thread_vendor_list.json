@@ -1,0 +1,41 @@
+{
+  "thread_id": "vendor_list",
+  "subject": "Vendor List",
+  "messages": [
+    {
+      "msg_id": 1,
+      "timestamp": "2026-09-21T09:50:00+00:00",
+      "from": "raghav.sethi@veridian-corp.example",
+      "to": ["arjun.malhotra@veridian-corp.example"],
+      "body": "Following up from the sync — can you send the updated vendor list today?"
+    },
+    {
+      "msg_id": 2,
+      "timestamp": "2026-09-21T17:40:00+00:00",
+      "from": "arjun.malhotra@veridian-corp.example",
+      "to": ["raghav.sethi@veridian-corp.example"],
+      "body": "Running behind, will send first thing tomorrow morning instead."
+    },
+    {
+      "msg_id": 3,
+      "timestamp": "2026-09-22T09:15:00+00:00",
+      "from": "raghav.sethi@veridian-corp.example",
+      "to": ["arjun.malhotra@veridian-corp.example"],
+      "body": "No worries, whenever you get a chance today works."
+    },
+    {
+      "msg_id": 4,
+      "timestamp": "2026-09-22T18:30:00+00:00",
+      "from": "arjun.malhotra@veridian-corp.example",
+      "to": ["raghav.sethi@veridian-corp.example"],
+      "body": "Sorry, got pulled into board prep — will send by tomorrow (Wednesday) morning for sure."
+    },
+    {
+      "msg_id": 5,
+      "timestamp": "2026-09-23T08:45:00+00:00",
+      "from": "raghav.sethi@veridian-corp.example",
+      "to": ["arjun.malhotra@veridian-corp.example"],
+      "body": "Just checking — still good for this morning?"
+    }
+  ]
+}

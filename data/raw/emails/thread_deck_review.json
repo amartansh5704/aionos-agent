@@ -1,0 +1,41 @@
+{
+  "thread_id": "deck_review",
+  "subject": "Q3 Campaign Deck",
+  "messages": [
+    {
+      "msg_id": 1,
+      "timestamp": "2026-09-21T11:00:00+00:00",
+      "from": "neha.kapoor@veridian-corp.example",
+      "to": ["arjun.malhotra@veridian-corp.example"],
+      "body": "Deck's coming together, still targeting Wednesday for your review."
+    },
+    {
+      "msg_id": 2,
+      "timestamp": "2026-09-22T16:15:00+00:00",
+      "from": "neha.kapoor@veridian-corp.example",
+      "to": ["arjun.malhotra@veridian-corp.example"],
+      "body": "Heads up — shifting the review to Thursday morning instead of Wednesday, need one more day on the data slides."
+    },
+    {
+      "msg_id": 3,
+      "timestamp": "2026-09-23T10:00:00+00:00",
+      "from": "arjun.malhotra@veridian-corp.example",
+      "to": ["neha.kapoor@veridian-corp.example"],
+      "body": "Understood, Thursday morning works. What time exactly?"
+    },
+    {
+      "msg_id": 4,
+      "timestamp": "2026-09-23T10:20:00+00:00",
+      "from": "neha.kapoor@veridian-corp.example",
+      "to": ["arjun.malhotra@veridian-corp.example"],
+      "body": "Let's say 9:30 AM Thursday, before your board prep block."
+    },
+    {
+      "msg_id": 5,
+      "timestamp": "2026-09-24T08:00:00+00:00",
+      "from": "neha.kapoor@veridian-corp.example",
+      "to": ["arjun.malhotra@veridian-corp.example"],
+      "body": "Deck is ready, attaching the draft ahead of our 9:30 review."
+    }
+  ]
+}

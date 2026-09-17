@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Executive Productivity Agent | Arjun Malhotra</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header">
+            <div class="user-badge">
+                <h1>Executive Productivity Agent</h1>
+                <p>User: <strong>Arjun Malhotra (VP Sales)</strong></p>
+            </div>
+            <div class="sim-controls">
+                <label for="sim-date-select">Simulated Time:</label>
+                <select id="sim-date-select">
+                    <option value="2026-09-21 09:00">Mon 21 Sept, 09:00 AM (Leadership Sync)</option>
+                    <option value="2026-09-23 09:00">Wed 23 Sept, 09:00 AM (Vendor List Stalled)</option>
+                    <option value="2026-09-23 15:30">Wed 23 Sept, 03:30 PM (Meridian Call Completed)</option>
+                    <option value="2026-09-23 18:15">Wed 23 Sept, 06:15 PM (Expense Report Delivered)</option>
+                    <option value="2026-09-24 09:00">Thu 24 Sept, 09:00 AM (Deck Review Ready)</option>
+                    <option value="2026-09-24 17:00">Thu 24 Sept, 05:00 PM (Mumbai Lease Escalating)</option>
+                </select>
+            </div>
+        </header>
+
+        <div class="main-layout">
+            <!-- Left Column: Daily Briefing Dashboard -->
+            <div class="dashboard-column">
+                <div class="section-title">Daily Briefing Dashboard</div>
+                <main id="briefing-container" class="briefing-container">
+                    <div class="loading">Loading executive briefing...</div>
+                </main>
+            </div>
+
+            <!-- Right Column: Conversational AI Chatbot -->
+            <div class="chat-column">
+                <div class="chat-container">
+                    <div class="chat-header">
+                        <h2>AIONOS Assistant</h2>
+                        <span class="online-dot"></span>
+                    </div>
+                    
+                    <div class="chat-messages" id="chat-messages">
+                        <div class="message bot">
+                            <div class="bubble">Hello Arjun. I've analyzed your emails, calendar, meetings, and voice notes. What do you need to know?</div>
+                        </div>
+                        <div class="message bot sub-text">
+                            Try asking: "What do I owe Raghav?" or "Who owns the Mumbai lease?" or "What is at risk?"
+                        </div>
+                    </div>
+                    
+                    <div class="chat-input-area">
+                        <input type="text" id="query-input" placeholder="Message assistant..." autocomplete="off">
+                        <button id="query-btn">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+{
+  "people": [
+    {
+      "name": "Arjun Malhotra",
+      "role": "VP Sales",
+      "email": "arjun.malhotra@veridian-corp.example",
+      "is_user": true
+    },
+    {
+      "name": "Neha Kapoor",
+      "role": "Marketing Lead",
+      "email": "neha.kapoor@veridian-corp.example",
+      "is_user": false
+    },
+    {
+      "name": "Raghav Sethi",
+      "role": "Ops Manager",
+      "email": "raghav.sethi@veridian-corp.example",
+      "is_user": false
+    },
+    {
+      "name": "Divya Rao",
+      "role": "Finance",
+      "email": "divya.rao@veridian-corp.example",
+      "is_user": false
+    },
+    {
+      "name": "Priya Nair",
+      "role": "Meridian Logistics (external client)",
+      "email": "priya.nair@meridianlogistics.example",
+      "is_user": false
+    },
+    {
+      "name": "Facilities",
+      "role": "Internal distribution list",
+      "email": "facilities@veridian-corp.example",
+      "is_user": false
+    }
+  ]
+}

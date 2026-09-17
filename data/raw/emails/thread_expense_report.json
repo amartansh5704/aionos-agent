@@ -1,0 +1,41 @@
+{
+  "thread_id": "expense_report",
+  "subject": "Expense Variance Report",
+  "messages": [
+    {
+      "msg_id": 1,
+      "timestamp": "2026-09-21T14:30:00+00:00",
+      "from": "divya.rao@veridian-corp.example",
+      "to": ["arjun.malhotra@veridian-corp.example"],
+      "body": "Starting on the July variance numbers, targeting Thursday morning for board prep as discussed."
+    },
+    {
+      "msg_id": 2,
+      "timestamp": "2026-09-22T09:00:00+00:00",
+      "from": "arjun.malhotra@veridian-corp.example",
+      "to": ["divya.rao@veridian-corp.example"],
+      "body": "Actually, can I get it by Wednesday evening instead? Want time to review before Thursday."
+    },
+    {
+      "msg_id": 3,
+      "timestamp": "2026-09-22T09:40:00+00:00",
+      "from": "divya.rao@veridian-corp.example",
+      "to": ["arjun.malhotra@veridian-corp.example"],
+      "body": "Wednesday evening is tight but doable, I'll prioritize it."
+    },
+    {
+      "msg_id": 4,
+      "timestamp": "2026-09-23T18:00:00+00:00",
+      "from": "divya.rao@veridian-corp.example",
+      "to": ["arjun.malhotra@veridian-corp.example"],
+      "body": "Report attached, sent as promised."
+    },
+    {
+      "msg_id": 5,
+      "timestamp": "2026-09-23T18:10:00+00:00",
+      "from": "arjun.malhotra@veridian-corp.example",
+      "to": ["divya.rao@veridian-corp.example"],
+      "body": "Got it, thank you — exactly what I needed before tomorrow."
+    }
+  ]
+}

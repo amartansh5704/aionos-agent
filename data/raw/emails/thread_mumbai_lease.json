@@ -1,0 +1,47 @@
+{
+  "thread_id": "mumbai_lease",
+  "subject": "Mumbai Office Lease Renewal",
+  "messages": [
+    {
+      "msg_id": 1,
+      "timestamp": "2026-09-21T10:15:00+00:00",
+      "from": "facilities@veridian-corp.example",
+      "to": ["All Staff"],
+      "body": "Reminder: the Mumbai office lease renewal requires an authorized signature by Friday, 25 September."
+    },
+    {
+      "msg_id": 2,
+      "timestamp": "2026-09-22T11:00:00+00:00",
+      "from": "raghav.sethi@veridian-corp.example",
+      "to": [
+        "arjun.malhotra@veridian-corp.example",
+        "divya.rao@veridian-corp.example"
+      ],
+      "body": "Following up from the sync — has anyone confirmed who's signing off on the Mumbai renewal? Don't think it's been assigned."
+    },
+    {
+      "msg_id": 3,
+      "timestamp": "2026-09-23T09:30:00+00:00",
+      "from": "divya.rao@veridian-corp.example",
+      "to": [
+        "raghav.sethi@veridian-corp.example",
+        "arjun.malhotra@veridian-corp.example"
+      ],
+      "body": "Not on my end — I believe this typically sits with Facilities directly, not us."
+    },
+    {
+      "msg_id": 4,
+      "timestamp": "2026-09-24T16:00:00+00:00",
+      "from": "facilities@veridian-corp.example",
+      "to": ["All Staff"],
+      "body": "Second reminder: signature is still pending. Deadline is Friday, 25 September, end of day."
+    },
+    {
+      "msg_id": 5,
+      "timestamp": "2026-09-24T16:45:00+00:00",
+      "from": "raghav.sethi@veridian-corp.example",
+      "to": ["arjun.malhotra@veridian-corp.example"],
+      "body": "This is now one day out and still unowned — can you confirm who's handling it?"
+    }
+  ]
+}

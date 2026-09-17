@@ -1,0 +1,804 @@
+[
+  {
+    "source_type": "meeting",
+    "timestamp": "2026-09-21T09:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [
+      "Neha Kapoor",
+      "Raghav Sethi",
+      "Divya Rao"
+    ],
+    "subject": "Leadership Sync",
+    "content": "Arjun Malhotra: Let's keep this quick. Neha, where are we on the Q3 campaign deck?",
+    "source_ref": "meeting:leadership_sync:turn_1",
+    "thread_id": "meeting_leadership_sync"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-21T09:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [],
+    "subject": "Leadership Sync",
+    "content": "Calendar event for Arjun Malhotra: Leadership Sync (09:00\u201309:35 on 2026-09-21)",
+    "source_ref": "calendar:arjun:event_1",
+    "thread_id": "calendar_arjun"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-21T09:00:00Z",
+    "sender": "Raghav Sethi",
+    "recipients": [],
+    "subject": "Leadership Sync",
+    "content": "Calendar event for Raghav Sethi: Leadership Sync (09:00\u201309:35 on 2026-09-21)",
+    "source_ref": "calendar:raghav:event_1",
+    "thread_id": "calendar_raghav"
+  },
+  {
+    "source_type": "meeting",
+    "timestamp": "2026-09-21T09:00:30Z",
+    "sender": "Neha Kapoor",
+    "recipients": [
+      "Arjun Malhotra",
+      "Raghav Sethi",
+      "Divya Rao"
+    ],
+    "subject": "Leadership Sync",
+    "content": "Neha Kapoor: Draft is 80% done. I'll send it to Arjun for review by Wednesday.",
+    "source_ref": "meeting:leadership_sync:turn_2",
+    "thread_id": "meeting_leadership_sync"
+  },
+  {
+    "source_type": "meeting",
+    "timestamp": "2026-09-21T09:00:59Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [
+      "Neha Kapoor",
+      "Raghav Sethi",
+      "Divya Rao"
+    ],
+    "subject": "Leadership Sync",
+    "content": "Arjun Malhotra: Good. Also, remind me \u2014 I told Raghav I'd send him the updated vendor list. I'll get that to him by end of day tomorrow.",
+    "source_ref": "meeting:leadership_sync:turn_3",
+    "thread_id": "meeting_leadership_sync"
+  },
+  {
+    "source_type": "meeting",
+    "timestamp": "2026-09-21T09:00:59Z",
+    "sender": "Raghav Sethi",
+    "recipients": [
+      "Arjun Malhotra",
+      "Neha Kapoor",
+      "Divya Rao"
+    ],
+    "subject": "Leadership Sync",
+    "content": "Raghav Sethi: Appreciated. Separately, the Mumbai office renewal paperwork needs someone to sign off this week. Not sure whose desk that's on right now.",
+    "source_ref": "meeting:leadership_sync:turn_4",
+    "thread_id": "meeting_leadership_sync"
+  },
+  {
+    "source_type": "meeting",
+    "timestamp": "2026-09-21T09:00:59Z",
+    "sender": "Divya Rao",
+    "recipients": [
+      "Arjun Malhotra",
+      "Neha Kapoor",
+      "Raghav Sethi"
+    ],
+    "subject": "Leadership Sync",
+    "content": "Divya Rao: I think that's supposed to be Facilities, but I haven't seen anyone pick it up.",
+    "source_ref": "meeting:leadership_sync:turn_5",
+    "thread_id": "meeting_leadership_sync"
+  },
+  {
+    "source_type": "meeting",
+    "timestamp": "2026-09-21T09:00:59Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [
+      "Neha Kapoor",
+      "Raghav Sethi",
+      "Divya Rao"
+    ],
+    "subject": "Leadership Sync",
+    "content": "Arjun Malhotra: Okay, flag it, don't assume. Divya, can you also pull the July expense variance report before Thursday's board prep?",
+    "source_ref": "meeting:leadership_sync:turn_6",
+    "thread_id": "meeting_leadership_sync"
+  },
+  {
+    "source_type": "meeting",
+    "timestamp": "2026-09-21T09:00:59Z",
+    "sender": "Divya Rao",
+    "recipients": [
+      "Arjun Malhotra",
+      "Neha Kapoor",
+      "Raghav Sethi"
+    ],
+    "subject": "Leadership Sync",
+    "content": "Divya Rao: Yes, I'll have it ready Wednesday evening.",
+    "source_ref": "meeting:leadership_sync:turn_7",
+    "thread_id": "meeting_leadership_sync"
+  },
+  {
+    "source_type": "meeting",
+    "timestamp": "2026-09-21T09:00:59Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [
+      "Neha Kapoor",
+      "Raghav Sethi",
+      "Divya Rao"
+    ],
+    "subject": "Leadership Sync",
+    "content": "Arjun Malhotra: One more thing \u2014 client call with Meridian Logistics got pushed. I need to reconfirm the new time with their team myself.",
+    "source_ref": "meeting:leadership_sync:turn_8",
+    "thread_id": "meeting_leadership_sync"
+  },
+  {
+    "source_type": "meeting",
+    "timestamp": "2026-09-21T09:00:59Z",
+    "sender": "Neha Kapoor",
+    "recipients": [
+      "Arjun Malhotra",
+      "Raghav Sethi",
+      "Divya Rao"
+    ],
+    "subject": "Leadership Sync",
+    "content": "Neha Kapoor: Also, just a reminder, the campaign deck review \u2014 I said Wednesday, but realistically Thursday morning is safer.",
+    "source_ref": "meeting:leadership_sync:turn_9",
+    "thread_id": "meeting_leadership_sync"
+  },
+  {
+    "source_type": "meeting",
+    "timestamp": "2026-09-21T09:00:59Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [
+      "Neha Kapoor",
+      "Raghav Sethi",
+      "Divya Rao"
+    ],
+    "subject": "Leadership Sync",
+    "content": "Arjun Malhotra: Noted. Let's close here.",
+    "source_ref": "meeting:leadership_sync:turn_10",
+    "thread_id": "meeting_leadership_sync"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-21T09:50:00Z",
+    "sender": "Raghav Sethi",
+    "recipients": [
+      "Arjun Malhotra"
+    ],
+    "subject": "Vendor List",
+    "content": "Following up from the sync \u2014 can you send the updated vendor list today?",
+    "source_ref": "email:vendor_list:msg_1",
+    "thread_id": "vendor_list"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-21T10:00:00Z",
+    "sender": "Neha Kapoor",
+    "recipients": [],
+    "subject": "Blocked",
+    "content": "Calendar event for Neha Kapoor: Blocked (10:00\u201311:00 on 2026-09-21)",
+    "source_ref": "calendar:neha:event_1",
+    "thread_id": "calendar_neha"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-21T10:15:00Z",
+    "sender": "Facilities",
+    "recipients": [
+      "All Staff"
+    ],
+    "subject": "Mumbai Office Lease Renewal",
+    "content": "Reminder: the Mumbai office lease renewal requires an authorized signature by Friday, 25 September.",
+    "source_ref": "email:mumbai_lease:msg_1",
+    "thread_id": "mumbai_lease"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-21T11:00:00Z",
+    "sender": "Neha Kapoor",
+    "recipients": [
+      "Arjun Malhotra"
+    ],
+    "subject": "Q3 Campaign Deck",
+    "content": "Deck's coming together, still targeting Wednesday for your review.",
+    "source_ref": "email:deck_review:msg_1",
+    "thread_id": "deck_review"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-21T13:00:00Z",
+    "sender": "Raghav Sethi",
+    "recipients": [],
+    "subject": "Blocked",
+    "content": "Calendar event for Raghav Sethi: Blocked (13:00\u201314:00 on 2026-09-21)",
+    "source_ref": "calendar:raghav:event_2",
+    "thread_id": "calendar_raghav"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-21T13:00:00Z",
+    "sender": "Priya Nair",
+    "recipients": [
+      "Arjun Malhotra"
+    ],
+    "subject": "Call Reschedule",
+    "content": "Our scheduled call this week got bumped from our side \u2014 can you propose a new time? We're flexible Tuesday\u2013Thursday afternoons.",
+    "source_ref": "email:meridian_call:msg_1",
+    "thread_id": "meridian_call"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-21T14:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [],
+    "subject": "1:1 with Neha",
+    "content": "Calendar event for Arjun Malhotra: 1:1 with Neha (14:00\u201314:30 on 2026-09-21)",
+    "source_ref": "calendar:arjun:event_2",
+    "thread_id": "calendar_arjun"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-21T14:00:00Z",
+    "sender": "Neha Kapoor",
+    "recipients": [],
+    "subject": "1:1 with Arjun",
+    "content": "Calendar event for Neha Kapoor: 1:1 with Arjun (14:00\u201314:30 on 2026-09-21)",
+    "source_ref": "calendar:neha:event_2",
+    "thread_id": "calendar_neha"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-21T14:30:00Z",
+    "sender": "Divya Rao",
+    "recipients": [],
+    "subject": "Budget Prep",
+    "content": "Calendar event for Divya Rao: Budget Prep (14:30\u201315:00 on 2026-09-21)",
+    "source_ref": "calendar:divya:event_1",
+    "thread_id": "calendar_divya"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-21T14:30:00Z",
+    "sender": "Divya Rao",
+    "recipients": [
+      "Arjun Malhotra"
+    ],
+    "subject": "Expense Variance Report",
+    "content": "Starting on the July variance numbers, targeting Thursday morning for board prep as discussed.",
+    "source_ref": "email:expense_report:msg_1",
+    "thread_id": "expense_report"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-21T16:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [],
+    "subject": "Blocked",
+    "content": "Calendar event for Arjun Malhotra: Blocked (16:00\u201317:00 on 2026-09-21)",
+    "source_ref": "calendar:arjun:event_3",
+    "thread_id": "calendar_arjun"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-21T16:00:00Z",
+    "sender": "Divya Rao",
+    "recipients": [],
+    "subject": "Blocked",
+    "content": "Calendar event for Divya Rao: Blocked (16:00\u201317:00 on 2026-09-21)",
+    "source_ref": "calendar:divya:event_2",
+    "thread_id": "calendar_divya"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-21T17:40:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [
+      "Raghav Sethi"
+    ],
+    "subject": "Vendor List",
+    "content": "Running behind, will send first thing tomorrow morning instead.",
+    "source_ref": "email:vendor_list:msg_2",
+    "thread_id": "vendor_list"
+  },
+  {
+    "source_type": "voice_note",
+    "timestamp": "2026-09-21T18:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [],
+    "subject": "Voice memo (recorded in cab)",
+    "content": "Quick note to self \u2014 need to get Raghav that vendor list. I think I said today but it might slip to tomorrow morning, remind me. Also still haven't heard back on the Mumbai lease thing, someone needs to own that, I don't think it's me.",
+    "source_ref": "voice_note:voice_note_1",
+    "thread_id": "voice_note_1"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-22T09:00:00Z",
+    "sender": "Divya Rao",
+    "recipients": [],
+    "subject": "Quick Call with Arjun",
+    "content": "Calendar event for Divya Rao: Quick Call with Arjun (09:00\u201309:15 on 2026-09-22)",
+    "source_ref": "calendar:divya:event_3",
+    "thread_id": "calendar_divya"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-22T09:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [
+      "Divya Rao"
+    ],
+    "subject": "Expense Variance Report",
+    "content": "Actually, can I get it by Wednesday evening instead? Want time to review before Thursday.",
+    "source_ref": "email:expense_report:msg_2",
+    "thread_id": "expense_report"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-22T09:15:00Z",
+    "sender": "Raghav Sethi",
+    "recipients": [
+      "Arjun Malhotra"
+    ],
+    "subject": "Vendor List",
+    "content": "No worries, whenever you get a chance today works.",
+    "source_ref": "email:vendor_list:msg_3",
+    "thread_id": "vendor_list"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-22T09:40:00Z",
+    "sender": "Divya Rao",
+    "recipients": [
+      "Arjun Malhotra"
+    ],
+    "subject": "Expense Variance Report",
+    "content": "Wednesday evening is tight but doable, I'll prioritize it.",
+    "source_ref": "email:expense_report:msg_3",
+    "thread_id": "expense_report"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-22T11:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [],
+    "subject": "Internal Budget Review",
+    "content": "Calendar event for Arjun Malhotra: Internal Budget Review (11:00\u201312:00 on 2026-09-22)",
+    "source_ref": "calendar:arjun:event_4",
+    "thread_id": "calendar_arjun"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-22T11:00:00Z",
+    "sender": "Raghav Sethi",
+    "recipients": [],
+    "subject": "Internal Budget Review",
+    "content": "Calendar event for Raghav Sethi: Internal Budget Review (11:00\u201312:00 on 2026-09-22)",
+    "source_ref": "calendar:raghav:event_3",
+    "thread_id": "calendar_raghav"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-22T11:00:00Z",
+    "sender": "Divya Rao",
+    "recipients": [],
+    "subject": "Internal Budget Review",
+    "content": "Calendar event for Divya Rao: Internal Budget Review (11:00\u201312:00 on 2026-09-22)",
+    "source_ref": "calendar:divya:event_4",
+    "thread_id": "calendar_divya"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-22T11:00:00Z",
+    "sender": "Raghav Sethi",
+    "recipients": [
+      "Arjun Malhotra",
+      "Divya Rao"
+    ],
+    "subject": "Mumbai Office Lease Renewal",
+    "content": "Following up from the sync \u2014 has anyone confirmed who's signing off on the Mumbai renewal? Don't think it's been assigned.",
+    "source_ref": "email:mumbai_lease:msg_2",
+    "thread_id": "mumbai_lease"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-22T13:00:00Z",
+    "sender": "Neha Kapoor",
+    "recipients": [],
+    "subject": "Campaign Vendor Call",
+    "content": "Calendar event for Neha Kapoor: Campaign Vendor Call (13:00\u201314:00 on 2026-09-22)",
+    "source_ref": "calendar:neha:event_3",
+    "thread_id": "calendar_neha"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-22T15:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [],
+    "subject": "Blocked",
+    "content": "Calendar event for Arjun Malhotra: Blocked (15:00\u201315:30 on 2026-09-22)",
+    "source_ref": "calendar:arjun:event_5",
+    "thread_id": "calendar_arjun"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-22T15:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [
+      "Priya Nair"
+    ],
+    "subject": "Call Reschedule",
+    "content": "Apologies for the delay \u2014 how about Wednesday 3:00 PM?",
+    "source_ref": "email:meridian_call:msg_2",
+    "thread_id": "meridian_call"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-22T15:30:00Z",
+    "sender": "Raghav Sethi",
+    "recipients": [],
+    "subject": "Ops Standup",
+    "content": "Calendar event for Raghav Sethi: Ops Standup (15:30\u201316:00 on 2026-09-22)",
+    "source_ref": "calendar:raghav:event_4",
+    "thread_id": "calendar_raghav"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-22T16:15:00Z",
+    "sender": "Neha Kapoor",
+    "recipients": [
+      "Arjun Malhotra"
+    ],
+    "subject": "Q3 Campaign Deck",
+    "content": "Heads up \u2014 shifting the review to Thursday morning instead of Wednesday, need one more day on the data slides.",
+    "source_ref": "email:deck_review:msg_2",
+    "thread_id": "deck_review"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-22T17:45:00Z",
+    "sender": "Priya Nair",
+    "recipients": [
+      "Arjun Malhotra"
+    ],
+    "subject": "Call Reschedule",
+    "content": "Wednesday 3 PM works on our end, confirmed.",
+    "source_ref": "email:meridian_call:msg_3",
+    "thread_id": "meridian_call"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-22T18:30:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [
+      "Raghav Sethi"
+    ],
+    "subject": "Vendor List",
+    "content": "Sorry, got pulled into board prep \u2014 will send by tomorrow (Wednesday) morning for sure.",
+    "source_ref": "email:vendor_list:msg_4",
+    "thread_id": "vendor_list"
+  },
+  {
+    "source_type": "voice_note",
+    "timestamp": "2026-09-23T08:15:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [],
+    "subject": "Voice memo (personal reminder)",
+    "content": "Reminder \u2014 expense variance report from Divya needs to be in my hands by Wednesday evening, not Thursday, I want time to go through it before board prep. Also Meridian call \u2014 I owe Priya a time, need to lock that in today.",
+    "source_ref": "voice_note:voice_note_2",
+    "thread_id": "voice_note_2"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-23T08:45:00Z",
+    "sender": "Raghav Sethi",
+    "recipients": [
+      "Arjun Malhotra"
+    ],
+    "subject": "Vendor List",
+    "content": "Just checking \u2014 still good for this morning?",
+    "source_ref": "email:vendor_list:msg_5",
+    "thread_id": "vendor_list"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-23T09:00:00Z",
+    "sender": "Raghav Sethi",
+    "recipients": [],
+    "subject": "Blocked",
+    "content": "Calendar event for Raghav Sethi: Blocked (09:00\u201311:00 on 2026-09-23)",
+    "source_ref": "calendar:raghav:event_5",
+    "thread_id": "calendar_raghav"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-23T09:30:00Z",
+    "sender": "Divya Rao",
+    "recipients": [
+      "Raghav Sethi",
+      "Arjun Malhotra"
+    ],
+    "subject": "Mumbai Office Lease Renewal",
+    "content": "Not on my end \u2014 I believe this typically sits with Facilities directly, not us.",
+    "source_ref": "email:mumbai_lease:msg_3",
+    "thread_id": "mumbai_lease"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-23T10:00:00Z",
+    "sender": "Neha Kapoor",
+    "recipients": [],
+    "subject": "Deck Prep",
+    "content": "Calendar event for Neha Kapoor: Deck Prep (10:00\u201310:30 on 2026-09-23)",
+    "source_ref": "calendar:neha:event_4",
+    "thread_id": "calendar_neha"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-23T10:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [
+      "Neha Kapoor"
+    ],
+    "subject": "Q3 Campaign Deck",
+    "content": "Understood, Thursday morning works. What time exactly?",
+    "source_ref": "email:deck_review:msg_3",
+    "thread_id": "deck_review"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-23T10:20:00Z",
+    "sender": "Neha Kapoor",
+    "recipients": [
+      "Arjun Malhotra"
+    ],
+    "subject": "Q3 Campaign Deck",
+    "content": "Let's say 9:30 AM Thursday, before your board prep block.",
+    "source_ref": "email:deck_review:msg_4",
+    "thread_id": "deck_review"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-23T13:00:00Z",
+    "sender": "Neha Kapoor",
+    "recipients": [],
+    "subject": "Blocked",
+    "content": "Calendar event for Neha Kapoor: Blocked (13:00\u201315:00 on 2026-09-23)",
+    "source_ref": "calendar:neha:event_5",
+    "thread_id": "calendar_neha"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-23T13:00:00Z",
+    "sender": "Divya Rao",
+    "recipients": [],
+    "subject": "Blocked",
+    "content": "Calendar event for Divya Rao: Blocked (13:00\u201314:00 on 2026-09-23)",
+    "source_ref": "calendar:divya:event_5",
+    "thread_id": "calendar_divya"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-23T13:30:00Z",
+    "sender": "Priya Nair",
+    "recipients": [
+      "Arjun Malhotra"
+    ],
+    "subject": "Call Reschedule",
+    "content": "Quick check \u2014 still on for 3 PM today?",
+    "source_ref": "email:meridian_call:msg_4",
+    "thread_id": "meridian_call"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-23T14:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [
+      "Priya Nair"
+    ],
+    "subject": "Call Reschedule",
+    "content": "Yes, confirmed, see you at 3.",
+    "source_ref": "email:meridian_call:msg_5",
+    "thread_id": "meridian_call"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-23T15:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [],
+    "subject": "Call \u2014 Meridian Logistics",
+    "content": "Calendar event for Arjun Malhotra: Call \u2014 Meridian Logistics (15:00\u201315:30 on 2026-09-23)",
+    "source_ref": "calendar:arjun:event_6",
+    "thread_id": "calendar_arjun"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-23T18:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [],
+    "subject": "Blocked",
+    "content": "Calendar event for Arjun Malhotra: Blocked (18:00\u201318:15 on 2026-09-23)",
+    "source_ref": "calendar:arjun:event_7",
+    "thread_id": "calendar_arjun"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-23T18:00:00Z",
+    "sender": "Divya Rao",
+    "recipients": [
+      "Arjun Malhotra"
+    ],
+    "subject": "Expense Variance Report",
+    "content": "Report attached, sent as promised.",
+    "source_ref": "email:expense_report:msg_4",
+    "thread_id": "expense_report"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-23T18:10:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [
+      "Divya Rao"
+    ],
+    "subject": "Expense Variance Report",
+    "content": "Got it, thank you \u2014 exactly what I needed before tomorrow.",
+    "source_ref": "email:expense_report:msg_5",
+    "thread_id": "expense_report"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-24T08:00:00Z",
+    "sender": "Neha Kapoor",
+    "recipients": [
+      "Arjun Malhotra"
+    ],
+    "subject": "Q3 Campaign Deck",
+    "content": "Deck is ready, attaching the draft ahead of our 9:30 review.",
+    "source_ref": "email:deck_review:msg_5",
+    "thread_id": "deck_review"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-24T09:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [],
+    "subject": "Board Prep Session",
+    "content": "Calendar event for Arjun Malhotra: Board Prep Session (09:00\u201310:00 on 2026-09-24)",
+    "source_ref": "calendar:arjun:event_8",
+    "thread_id": "calendar_arjun"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-24T09:00:00Z",
+    "sender": "Divya Rao",
+    "recipients": [],
+    "subject": "Board Prep Session",
+    "content": "Calendar event for Divya Rao: Board Prep Session (09:00\u201310:00 on 2026-09-24)",
+    "source_ref": "calendar:divya:event_6",
+    "thread_id": "calendar_divya"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-24T09:30:00Z",
+    "sender": "Neha Kapoor",
+    "recipients": [],
+    "subject": "Deck Review with Arjun",
+    "content": "Calendar event for Neha Kapoor: Deck Review with Arjun (09:30\u201310:00 on 2026-09-24)",
+    "source_ref": "calendar:neha:event_6",
+    "thread_id": "calendar_neha"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-24T14:00:00Z",
+    "sender": "Raghav Sethi",
+    "recipients": [],
+    "subject": "Blocked",
+    "content": "Calendar event for Raghav Sethi: Blocked (14:00\u201315:00 on 2026-09-24)",
+    "source_ref": "calendar:raghav:event_6",
+    "thread_id": "calendar_raghav"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-24T14:00:00Z",
+    "sender": "Divya Rao",
+    "recipients": [],
+    "subject": "Blocked",
+    "content": "Calendar event for Divya Rao: Blocked (14:00\u201315:00 on 2026-09-24)",
+    "source_ref": "calendar:divya:event_7",
+    "thread_id": "calendar_divya"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-24T16:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [],
+    "subject": "Hiring Panel \u2014 Sales Associate",
+    "content": "Calendar event for Arjun Malhotra: Hiring Panel \u2014 Sales Associate (16:00\u201317:00 on 2026-09-24)",
+    "source_ref": "calendar:arjun:event_9",
+    "thread_id": "calendar_arjun"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-24T16:00:00Z",
+    "sender": "Facilities",
+    "recipients": [
+      "All Staff"
+    ],
+    "subject": "Mumbai Office Lease Renewal",
+    "content": "Second reminder: signature is still pending. Deadline is Friday, 25 September, end of day.",
+    "source_ref": "email:mumbai_lease:msg_4",
+    "thread_id": "mumbai_lease"
+  },
+  {
+    "source_type": "email",
+    "timestamp": "2026-09-24T16:45:00Z",
+    "sender": "Raghav Sethi",
+    "recipients": [
+      "Arjun Malhotra"
+    ],
+    "subject": "Mumbai Office Lease Renewal",
+    "content": "This is now one day out and still unowned \u2014 can you confirm who's handling it?",
+    "source_ref": "email:mumbai_lease:msg_5",
+    "thread_id": "mumbai_lease"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-25T10:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [],
+    "subject": "Facilities Check-in",
+    "content": "Calendar event for Arjun Malhotra: Facilities Check-in (10:00\u201310:30 on 2026-09-25)",
+    "source_ref": "calendar:arjun:event_10",
+    "thread_id": "calendar_arjun"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-25T10:00:00Z",
+    "sender": "Raghav Sethi",
+    "recipients": [],
+    "subject": "Facilities Check-in",
+    "content": "Calendar event for Raghav Sethi: Facilities Check-in (10:00\u201310:30 on 2026-09-25)",
+    "source_ref": "calendar:raghav:event_7",
+    "thread_id": "calendar_raghav"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-25T10:00:00Z",
+    "sender": "Divya Rao",
+    "recipients": [],
+    "subject": "Blocked",
+    "content": "Calendar event for Divya Rao: Blocked (10:00\u201311:00 on 2026-09-25)",
+    "source_ref": "calendar:divya:event_8",
+    "thread_id": "calendar_divya"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-25T11:00:00Z",
+    "sender": "Neha Kapoor",
+    "recipients": [],
+    "subject": "Blocked",
+    "content": "Calendar event for Neha Kapoor: Blocked (11:00\u201312:00 on 2026-09-25)",
+    "source_ref": "calendar:neha:event_7",
+    "thread_id": "calendar_neha"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-25T13:00:00Z",
+    "sender": "Arjun Malhotra",
+    "recipients": [],
+    "subject": "Blocked",
+    "content": "Calendar event for Arjun Malhotra: Blocked (13:00\u201314:00 on 2026-09-25)",
+    "source_ref": "calendar:arjun:event_11",
+    "thread_id": "calendar_arjun"
+  },
+  {
+    "source_type": "calendar",
+    "timestamp": "2026-09-25T15:00:00Z",
+    "sender": "Raghav Sethi",
+    "recipients": [],
+    "subject": "Blocked",
+    "content": "Calendar event for Raghav Sethi: Blocked (15:00\u201316:00 on 2026-09-25)",
+    "source_ref": "calendar:raghav:event_8",
+    "thread_id": "calendar_raghav"
+  }
+]
